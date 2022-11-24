@@ -13,7 +13,6 @@ public class Hello {
 		// 자동 포멧 정렬 : ctrl + shift + f
 		System.out.println("Hello 이상용 자바");
 		System.out.println("Hello 이상용 자바");
-
 		System.out.println("Hello 이상용 자바");
 	}
 
